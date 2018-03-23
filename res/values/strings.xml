@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ZYGClock</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="add_alarm">Add alarm</string>
+    <string name="play_sound">Play_Sound</string>
+    <string name="_">:</string>
+    <string name="reset">reset</string>
+    <string name="pause">pause</string>
+    <string name="resume">resume</string>
+    <string name="start">Start</string>
+    <string name="resum">resum</string>
+    <string name="lap">lap</string>
+
+</resources>
